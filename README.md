@@ -19,10 +19,10 @@ Here is the demo video of Third eye---- https://drive.google.com/file/d/1eXiBZVB
 
 I have used following resources to create this app--
 
-1. Streamlit- to create app.
-2. HuggingFace - to take and inference pretrained models.
-3. OpenAi- API for text generation.
-4. Langchain- Used agents to seggregate all tasks at one place.
+1. **Streamlit**- to create app.
+2. **HuggingFace** - to take and inference pretrained models.
+3. **OpenAi**- API for text generation.
+4. **Langchain**- Used agents to seggregate all tasks at one place.
 
 To run this code use following commands:
 ```bash
