@@ -13,8 +13,7 @@ https://github.com/Rishabh20539011/Mutimodal_Network
 3. [Text_Generation_Model](https://openai.com/)- This OpenAI's GPT 3.5 which is trained on lot's of text data, which helps us to generate text based on the information we get from both the above models. We can make use of the results given by captioning and object detection tool from which we can generate lot other futuristic things.
 
 
-[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
-
+![vlcsnap-2023-06-09-01h03m51s802](https://github.com/Rishabh20539011/Third_eye_APP/assets/101064926/52ff78f2-1c36-4708-9ec4-ddc1a9a9c1dd)
 
 
 
