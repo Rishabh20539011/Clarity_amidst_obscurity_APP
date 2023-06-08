@@ -21,7 +21,7 @@ conversational_memory = ConversationBufferWindowMemory(
 )
 
 llm = ChatOpenAI(
-    openai_api_key='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',    
+    openai_api_key='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',    
     temperature=0,
     model_name="gpt-3.5-turbo"
 )
@@ -37,10 +37,10 @@ agent = initialize_agent(
 )
 
 # set title
-st.title('Ask a question to an image')
+st.title('Third-Eye')
 
 # set header
-st.header("Please upload an image")
+st.header("Please upload an image and ask the question")
 
 # upload file
 file = st.file_uploader("", type=["jpeg", "jpg", "png"])
@@ -68,12 +68,6 @@ if file:
                 speech = gTTS(response, lang = 'en', slow = False)
                 # st.audio(speech,sample_rate = 44100)
                 st.write(response)
-                # speech.save('speech.mp3')
-                # print('speech------------------------',speech)
-
-                # audio_file = open('speech.mp3', 'rb')
-                # audio_bytes = audio_file.read()
-                # st.audio(audio_bytes, format='audio/mp3')
                 mp3_fp=BytesIO()
                 speech.write_to_fp(mp3_fp)
                 mp3_fp.seek(0)
