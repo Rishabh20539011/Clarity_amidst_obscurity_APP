@@ -12,3 +12,5 @@ https://github.com/Rishabh20539011/Mutimodal_Network
 
 3. [Text_Generation_Model](https://openai.com/)- This OpenAI's GPT 3.5 which is trained on lot's of text data, which helps us to generate text based on the information we get from both the above models. We can make use of the results given by captioning and object detection tool from which we can generate lot other futuristic things.
 
+
+
