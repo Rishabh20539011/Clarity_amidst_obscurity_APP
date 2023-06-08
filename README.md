@@ -24,9 +24,14 @@ I have used following resources to create this app---
 3.OpenAi- API for text generation.
 4.Langchain- Used agents to seggregate all tasks at one place.
 
-Extract training images:
+To run this code use following commands:
 ```bash
-$ python pre_process.py
+$ git clone https://github.com/Rishabh20539011/Third_eye_APP
 ```
 
-
+```bash
+$ pip install -r requirements.txt
+```
+```bash
+$ streamlit run app.py
+```
