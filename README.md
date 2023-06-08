@@ -17,5 +17,12 @@ Here is the demo video of Third eye---- https://drive.google.com/file/d/1eXiBZVB
 
 ![new_image](https://github.com/Rishabh20539011/Third_eye_APP/assets/101064926/425e0b53-3749-4dc1-86ae-b1b7cc150e96)
 
+I have used following resources to create this app---
+
+1.Streamlit- to create app.
+2.HuggingFace - to take and inference pretrained models.
+3.OpenAi- API for text generation.
+4.Langchain- Used agents to seggregate all tasks at one place.
+
 
 
