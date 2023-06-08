@@ -26,7 +26,7 @@ I have used following resources to create this app--
 
 To run this code use following commands:
 ```bash
-$ git clone https://github.com/Rishabh20539011/Third_eye_APP
+$ git clone https://github.com/Rishabh20539011/Third_eye_APP/tree/vision_app
 ```
 
 ```bash
