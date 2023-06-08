@@ -24,5 +24,9 @@ I have used following resources to create this app---
 3.OpenAi- API for text generation.
 4.Langchain- Used agents to seggregate all tasks at one place.
 
+Extract training images:
+```bash
+$ python pre_process.py
+```
 
 
